@@ -36,7 +36,7 @@ Mercedes oferował **około 15-20 kolorów standardowych** w każdym okresie pro
 
 **Czerwień:**
 - **Signal Red (568)** – sygnałowa, jaskrawa czerwień
-- **Almandine Red (5** – ciemna, bordowa czerwień (Diana Spencer!)
+- **Almandine Red (568)** – ciemna, bordowa czerwień (Diana Spencer!)
 - **Cherry Red** – wiśniowa czerwień
 - Popularność: około 8-10% produkcji
 

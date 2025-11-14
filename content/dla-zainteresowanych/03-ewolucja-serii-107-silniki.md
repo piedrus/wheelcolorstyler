@@ -107,7 +107,7 @@ Wersja 500SLC (coupe) była znacznie rzadsza, wyprodukowano zaledwie kilkaset sz
 **Prędkość max:** ~200 km/h
 **Spalanie:** 11-13 L/100 km
 
-W 1985 roku 280SL odszedł na emeryturę. Jego miejsce zajął **300SL** z nowym silnikiem M103 – trzylitrowąsześciocylindrówką, którą Mercedes stosował również w W124 i W201 (190E).
+W 1985 roku 280SL odszedł na emeryturę. Jego miejsce zajął **300SL** z nowym silnikiem M103 – trzylitrow sześciocylindrówką, którą Mercedes stosował również w W124 i W201 (190E).
 
 300SL był minimalnie szybszy niż 280SL (setka w 10 sekund vs 10.5), ale przede wszystkim **nowocześniejszy**. Silnik M103 miał lepszą kulturę pracy, niższe spalanie przy lepszych osiągach i był bardziej niezawodny.
 
