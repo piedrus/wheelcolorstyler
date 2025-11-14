@@ -62,7 +62,7 @@ Pod maską oba modele dzieliły te same jednostki napędowe:
 - **350SL / 350SLC**: 3.5L V8, 200 KM
 - **380SL / 380SLC**: 3.8L V8, 218 KM
 - **450SL / 450SLC**: 4.5L V8, 190-225 KM (wersje US/EU)
-- **500SL / 500SLC**: 5.0L V8, 240 KM
+- **500SL / 500SLC**: 5.0L V8, 231-245 KM
 
 **Tylko R107 (po 1981 lub tylko niektóre rynki):**
 - **420SL**: 4.2L V8, 224 KM
@@ -190,7 +190,7 @@ Który wybrać? To zależy, czego szukasz. Ale jedno jest pewne: którykolwiek w
 | **Waga (350 SL/SLC)** | ~1 640 kg | ~1 690 kg |
 | **Liczba miejsc** | 2 | 2+2 |
 | **Typ dachu** | Soft-top + hardtop opcja | Stały stalowy |
-| **Najsilniejsza wersja** | 560SL (5.6L, 227-300 KM) | 500SLC (5.0L, 240 KM) |
+| **Najsilniejsza wersja** | 560SL (5.6L, 227-300 KM) | 500SLC (5.0L, 231 KM) |
 | **Cena dziś (stan dobry)** | Wyższa o 20-30% | Niższa o 20-30% |
 
 ---
