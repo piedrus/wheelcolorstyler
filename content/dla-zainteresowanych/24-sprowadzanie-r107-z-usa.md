@@ -10,7 +10,7 @@ slug: "sprowadzanie-r107-z-usa"
 
 # Sprowadzanie R107 z USA – kompletny przewodnik (koszty, homologacja, pułapki)
 
-560SL w USA kosztuje 35.000 USD (około 32.000 EUR), a w Europie ten sam egzemplarz to 65.000 EUR. **Różnica 33.000 EUR!** Czy to oznacza, że powinieneś lecieć do Kalifornii i sprowadzić R107? **Nie tak szybko.** Import z USA to skomplikowany proces: transport morski (2.000-4.000 EUR), homologacja (2.000-5.000 EUR), cła (10%), podatki (23% VAT), lewostronna kierownica (trudniej sprzedać w Europie), różnice w specyfikacji (katalizatory = mniej mocy). Po zsumowaniu kosztów **oszczędność może zniknąć** – albo wręcz przepłacisz. W tym artykule poznasz **kompletny przewodnik importu R107 z USA**: krok po kroku, z kosztami, pułapkami i odpowiedzią na pytanie: **czy warto?**
+560SL w USA kosztuje 35.000 USD (około 32.000 EUR), a w Europie ten sam egzemplarz to 65.000 EUR. **Różnica 33.000 EUR!** Czy to oznacza, że powinieneś lecieć do Kalifornii i sprowadzić R107? **Nie tak szybko.** Import z USA to skomplikowany proces: transport morski (2.000-4.000 EUR), homologacja (2.000-5.000 EUR), cła (10%), podatki (23% VAT), różnice w specyfikacji (katalizatory = mniej mocy, prędkościomierz w milach). Po zsumowaniu kosztów **oszczędność może zniknąć** – albo wręcz przepłacisz. W tym artykule poznasz **kompletny przewodnik importu R107 z USA**: krok po kroku, z kosztami, pułapkami i odpowiedzią na pytanie: **czy warto?**
 
 ---
 
@@ -40,43 +40,44 @@ slug: "sprowadzanie-r107-z-usa"
 
 **Oszczędność faktyczna:** 65.000 EUR (EU) - 52.200 EUR (import) = **12.800 EUR**
 
-**Ale:**
-- Auto jest **lewostronne** (kierownica po lewej) = trudniej sprzedać w Europie (-10.000 EUR wartości przy odsprzedaży)
+**Ale uwaga:**
 - Specyfikacja USA = **katalizatory** (227 KM vs 245 KM Europa)
+- Prędkościomierz w **milach** (kosztowna wymiana/adaptacja)
+- Części zapasowe specyficzne dla rynku USA (droższe w EU)
 
-**Realna oszczędność:** około **2.800 EUR** (jeśli w ogóle)
+**Realna oszczędność:** około **8.000-12.000 EUR** (jeśli znajdziesz dobry egzemplarz)
 
 ---
 
 ### Kiedy import z USA MA SENS?
 
 **1. Szukasz BARDZO rzadkiego egzemplarza**
-→ 450SLC 5.0, 560SL z niskim przebiegiem (<30.000 mil), celebrity-owned
+→ 450SLC 5.0, 560SL z niskim przebiegiem (<30.000 mil), celebrity-owned, unikalne opcje
 
 **2. Kupujesz z suchego klimatu (bez rdzy)**
-→ California, Arizona, Texas = suche stany, mniej rdzy niż Europa
+→ California, Arizona, Texas = suche stany, znacznie mniej rdzy niż Europa (zwłaszcza strefy śnieżne)
 
 **3. Masz kontakt z zaufanym importerem**
-→ Ktoś w USA, kto ogarnie zakup, transport, dokumenty (oszczędzasz czas i stres)
+→ Ktoś w USA, kto ogarnie zakup, inspekcję, transport, dokumenty (oszczędzasz czas i stres)
 
-**4. Planujesz zostawić auto w lewostronnej specyfikacji**
-→ Nie przeszkadza ci kierownica po lewej (albo planujesz jeździć w UK/Irlandii)
+**4. Auto w USA jest znacznie tańsze**
+→ Np. rzadkie wersje w Europie niedostępne lub 2x droższe
 
 ---
 
 ### Kiedy import z USA NIE MA SENSU?
 
 **1. Szukasz standardowego 500SL/560SL**
-→ W Niemczech są setki, podobna cena po uwzględnieniu kosztów importu
+→ W Niemczech są setki, podobna cena po uwzględnieniu kosztów importu (transport, cło, VAT)
 
 **2. Nie masz doświadczenia w imporcie**
-→ Można stracić tysiące euro na błędach (zła homologacja, uszkodzenie w transporcie)
+→ Można stracić tysiące euro na błędach (zła homologacja, uszkodzenie w transporcie, oszustwa)
 
-**3. Planujesz szybko odsprzedać**
-→ Lewostronne auto trudniej sprzedać (mniejszy popyt)
-
-**4. Auto wymaga napraw**
+**3. Auto wymaga napraw**
 → Koszty napraw w Europie wyższe niż zaoszczędzone na zakupie
+
+**4. Nie chcesz czekać 2-3 miesiące**
+→ Import to proces: inspekcja, transport morski, homologacja - minimum 8-12 tygodni
 
 ---
 
@@ -271,22 +272,7 @@ Część R107 specyficznych dla USA (np. katalizatory, liczniki mile/h) są **dr
 
 ---
 
-### Pułapka #4: Lewostronna kierownica (trudniej sprzedać)
-
-**Problem:**
-W Europie kontynentalnej (Polska, Niemcy, Francja) **95% kupujących chce prawostronne**.
-
-**Konsekwencje:**
-- Auto **trudniej sprzedać**
-- Wartość odsprzedaży **niższa o 10.000-15.000 EUR**
-
-**Kiedy nie problem?**
-- UK, Irlandia (lewostronne ruch) – tam lewostronne auto jest normalne
-- Jeśli sam chcesz jeździć (nie planujesz sprzedawać)
-
----
-
-### Pułapka #5: Kursy walut (dolar może wzrosnąć)
+### Pułapka #4: Kursy walut (dolar może wzrosnąć)
 
 **Przykład:**
 - Kupujesz auto za 35.000 USD gdy kurs: 1 USD = 0.91 EUR → 32.000 EUR
@@ -334,38 +320,37 @@ W Europie kontynentalnej (Polska, Niemcy, Francja) **95% kupujących chce prawos
 ### Scenariusz A: Import ma sens
 
 **Profil:**
-- Szukasz **rzadkiego egzemplarza** (450SLC 5.0, 560SL celebrity-owned)
-- Masz **kontakt z importerem** (ktoś zaufany w USA)
-- **Nie przeszkadza ci** lewostronna kierownica
-- Planujesz **zatrzymać auto długo** (10+ lat, nie sprzedawać)
+- Szukasz **rzadkiego egzemplarza** (450SLC 5.0, 560SL celebrity-owned, unikalne opcje)
+- Masz **kontakt z importerem** (ktoś zaufany w USA, który pomoże z całym procesem)
+- Auto w USA jest znacznie **tańsze** lub w lepszym stanie (suchy klimat, mała rdza)
+- Planujesz **zatrzymać auto długo** (10+ lat, nie sprzedawać szybko)
 
-**Oszczędność:** 10.000-20.000 EUR (dla rzadkich wersji)
+**Oszczędność:** 10.000-20.000 EUR (dla rzadkich wersji w bardzo dobrym stanie)
 
 ---
 
 ### Scenariusz B: Import NIE ma sensu
 
 **Profil:**
-- Szukasz **standardowego 500SL/560SL**
-- Nie masz doświadczenia w imporcie
-- Planujesz **odsprzedać** za kilka lat
-- Chcesz **prawostronne** auto
+- Szukasz **standardowego 500SL/560SL** (dostępne w Europie)
+- Nie masz doświadczenia w imporcie (ryzyko błędów, kosztów)
+- Planujesz **odsprzedać** za kilka lat (długi proces importu nie wart zachodu)
+- Chcesz **szybko** kupić i jeździć (import trwa 2-3 miesiące)
 
-**Lepiej:** kup w Niemczech (setki ofert, podobna cena, bez stresu)
+**Lepiej:** kup w Niemczech (setki ofert, podobna cena po uwzględnieniu kosztów, bez stresu)
 
 ---
 
 ## Podsumowanie: Checklist importu z USA
 
-✅ **Znalazłem rzadki egzemplarz** (nie dostępny w EU)
+✅ **Znalazłem rzadki egzemplarz** (nie dostępny w EU lub znacznie tańszy)
 ✅ **Sprawdziłem Carfax/AutoCheck** (Clean Title, brak wypadków)
-✅ **Zatrudniłem mechanika w USA** (inspekcja przed zakupem)
-✅ **Policzyłem WSZYSTKIE koszty** (transport, cło, VAT, homologacja)
-✅ **Wybrałem bezpieczną metodę płatności** (Escrow.com)
-✅ **Zorganizowałem transport morski** (kontener lub RoRo)
-✅ **Załatwiłem odprawę celną** (broker celny)
-✅ **Homologacja w EU** (światła, emisja, prędkościomierz)
-✅ **Zaakceptowałem lewostronną kierownicę** (albo konwertuję na prawostronne: +5.000 EUR)
+✅ **Zatrudniłem mechanika w USA** (inspekcja przed zakupem - obowiązkowo!)
+✅ **Policzyłem WSZYSTKIE koszty** (transport, cło, VAT, homologacja - realnie 15.000-20.000 EUR)
+✅ **Wybrałem bezpieczną metodę płatności** (Escrow.com lub przelew przez importera)
+✅ **Zorganizowałem transport morski** (kontener bezpieczniejszy, RoRo tańszy)
+✅ **Załatwiłem odprawę celną** (broker celny załatwi wszystko)
+✅ **Homologacja w EU** (światła, emisja, prędkościomierz - 2.500-4.500 EUR w Polsce)
 
 **Ostateczna rada:**
 Import z USA to **projekt na 3-6 miesięcy**, nie "szybki zakup". Jeśli masz czas, cierpliwość i znalazłeś **wyjątkowy egzemplarz** – **warto**. Jeśli szukasz standardowego R107 – **kup w Niemczech**.

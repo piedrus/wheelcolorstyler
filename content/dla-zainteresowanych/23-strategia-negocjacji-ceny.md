@@ -396,4 +396,4 @@ Sprzedawcy łatwiej zgodzić się na **drobne dodatki** niż obniżkę ceny (psy
 
 ---
 
-*W następnym artykule poznasz szczegóły sprowadzania R107 z USA: jak znaleźć importera, ile kosztuje transport, jak działa homologacja i czy warto ryzykować lewostronne auto.*
+*W następnym artykule poznasz szczegóły sprowadzania R107 z USA: jak znaleźć importera, ile kosztuje transport, jak działa homologacja i czy faktycznie można zaoszczędzić na imporcie z Ameryki.*

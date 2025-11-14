@@ -191,9 +191,9 @@ Design "flat" (płaski) był odpowiedzią na **amerykańskie normy bezpieczeńst
 - **560SL:** 55.000-95.000 EUR
 
 ### 42. Gdzie kupować R107?
-- **Niemcy:** największy rynek, dobra jakość
-- **USA:** dużo sztuk, ale lewostronne
-- **Polska:** mniej wyboru, ale tanio
+- **Niemcy:** największy rynek, dobra jakość, łatwa rejestracja w PL
+- **USA:** dużo sztuk (zwłaszcza 560SL), suchy klimat, ale import kosztowny
+- **Polska:** mniej wyboru, ale bez kosztów transportu i cła
 
 ### 43. Co najważniejsze przy oglądaniu?
 **1. Rdza** (progi, podłoga, nadkola)
@@ -206,8 +206,8 @@ Design "flat" (płaski) był odpowiedzią na **amerykańskie normy bezpieczeńst
 - **Nadkola:** spojrzeć od środka (czarne plamy = rdza)
 
 ### 45. Czy kupić z USA?
-**Zalety:** dużo sztuk, niska cena
-**Wady:** lewostronne, katalizatory (mniej mocy), wymaga homologacji w UE
+**Zalety:** dużo sztuk (zwłaszcza 560SL), suchy klimat (mniej rdzy), czasem niższa cena
+**Wady:** koszty importu (transport 2.500 EUR, cło 10%, VAT 23%, homologacja 3.500 EUR), katalizatory (227 KM vs 245 KM EU), prędkościomierz w milach
 
 ### 46. Jak sprawdzić historię auta?
 - **Carfax/AutoCheck** (USA)
