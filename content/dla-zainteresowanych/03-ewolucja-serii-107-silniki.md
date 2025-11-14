@@ -2,9 +2,9 @@
 title: "Ewolucja serii 107: od 350SL do 560SL – wszystkie wersje silnikowe"
 description: "Kompletny przegląd wszystkich silników Mercedesa SL R107 przez 18 lat produkcji. Od europejskich V8 po amerykańskie jednostki, od oszczędnego 2.8 po potężne 5.6 litra."
 keywords: "Mercedes R107 silniki, 560SL, 450SL, 500SL, 280SL, wersje silnikowe R107, Mercedes V8, silniki M116 M117, różnice EU US R107"
-author: "WheelColorStyler"
-date: "2024-11-14"
-category: "Dla zainteresowanych"
+author: "Stosiódemka"
+date: "2025-01-14"
+category: "Dla wszystkich"
 slug: "ewolucja-serii-107-wszystkie-wersje-silnikowe"
 ---
 

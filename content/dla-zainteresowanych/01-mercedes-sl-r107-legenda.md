@@ -2,9 +2,9 @@
 title: "Mercedes SL R107 – legenda, która jechała przez dwie dekady"
 description: "Historia najdłużej produkowanego Mercedesa SL w historii marki. Dowiedz się, dlaczego R107 produkowano aż 18 lat i co sprawiło, że stał się ikoną lat 70. i 80."
 keywords: "Mercedes SL R107, Mercedes 107, Mercedes SL historia, R107 historia, klasyczny Mercedes, Mercedes lata 80, Mercedes roadster, ikona motoryzacji"
-author: "WheelColorStyler"
-date: "2024-11-14"
-category: "Dla zainteresowanych"
+author: "Stosiódemka"
+date: "2025-01-14"
+category: "Dla wszystkich"
 slug: "mercedes-sl-r107-legenda-przez-dwie-dekady"
 ---
 

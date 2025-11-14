@@ -2,9 +2,9 @@
 title: "R107 kontra C107 – bliźniaki, które dzieli… dach"
 description: "Szczegółowe porównanie Mercedesa SL roadster (R107) i coupe SLC (C107). Różnice w konstrukcji, popularności, praktyczności i cenach na rynku klasycznych aut."
 keywords: "Mercedes R107 vs C107, Mercedes SL vs SLC, C107 coupe, różnice R107 C107, Mercedes 107 porównanie, SL roadster, SLC coupe, klasyczny Mercedes"
-author: "WheelColorStyler"
-date: "2024-11-14"
-category: "Dla zainteresowanych"
+author: "Stosiódemka"
+date: "2025-01-14"
+category: "Dla wszystkich"
 slug: "r107-kontra-c107-bliznaki-ktore-dzieli-dach"
 ---
 
@@ -124,7 +124,7 @@ Największym rynkiem dla SLC była – podobnie jak dla roadstera – **Ameryka 
 
 Przez dekady C107 było traktowane po macoszemu. Mniej pożądane, mniej efektowne, mniej ikoniczne. Skutek? **Niższe ceny**.
 
-Sytuacja dziś (dane orientacyjne z rynku europejskiego, 2024):
+Sytuacja dziś (dane orientacyjne z rynku europejskiego, 2025):
 
 **R107 – przykładowe ceny:**
 - 280SL (stan dobry): 25 000 – 40 000 EUR
