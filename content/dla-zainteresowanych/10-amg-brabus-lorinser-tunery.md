@@ -1,14 +1,14 @@
 ---
-title: "AMG, Brabus, Lorinser – tunery, którzy ulepszali serię 107"
+title: "AMG, Brabus, Lorinser – tuning Mercedesa SL R107"
 description: "Historia najsłynniejszych modyfikacji Mercedesa SL R107. Rzadkie egzemplarze AMG, Brabus i Lorinser, które dziś są warte majątek. Co można było zamówić i ile to kosztuje teraz?"
 keywords: "AMG R107, Brabus Mercedes 107, Lorinser SL, Mercedes 107 tuning, AMG 500SL, rzadkie tunery R107, modyfikacje Mercedes SL, kolekcjonerskie AMG"
 author: "Stosiódemka"
 date: "2025-01-14"
 category: "Dla wszystkich"
-slug: "amg-brabus-lorinser-tunery-107"
+slug: "amg-brabus-lorinser-tuning-mercedesa-107"
 ---
 
-# AMG, Brabus, Lorinser – tunery, którzy ulepszali serię 107
+# AMG, Brabus, Lorinser – tuning Mercedesa SL R107
 
 Mercedes SL serie 107 z fabryki był już autem luksusowym, szybkim, prestiżowym. Ale dla niektórych klientów **to nie wystarczało**. Chcieli więcej mocy, lepszego zawieszenia, szerszych felg, agresywniejszego wyglądu. Do akcji wkraczali **tunery** – firmy specjalizujące się w udoskonalaniu Mercedesów. AMG, Brabus, Lorinser – te trzy nazwy definiowały tuning R107 w latach 70., 80. i 90. Ich twory dziś są warte **wielokrotnie więcej** niż fabryczne SL. Poznajmy historię modyfikacji serii 107 i zobaczmy, które egzemplarze są najcenniejsze.
 
